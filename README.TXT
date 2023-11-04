@@ -1,12 +1,9 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This is the project README file.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Sierpinski Triangle
+PURPOSE OF PROJECT: Show how to draw graphics with recursion. Show good programming practices for dealing with user-input.
+VERSION or DATE: v2
+AUTHORS: Arjun Patel
+USER INSTRUCTIONS: Running the main file will open a Java Swing window. Enter a positive integer in the box to define the amount of detail for the fractal.
